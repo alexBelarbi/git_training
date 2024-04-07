@@ -15,3 +15,8 @@ git config --global color.branch auto \
 git config --global core.editor vim \
 git config --global merge.tool  vimdiff \
 
+ssh-add C:/Users/abelarb/.ssh/github_id \
+ssh-add -l -E sha256 \
+
+
+
